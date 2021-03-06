@@ -1,1 +1,1 @@
-# Idriss
+# Hashi-Solver
